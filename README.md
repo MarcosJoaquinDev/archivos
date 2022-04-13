@@ -1,2 +1,2 @@
 # archivos
-programa echo en c++ para crear lista de notas de alumnos
+programa echo en C para crear lista de notas de alumnos
